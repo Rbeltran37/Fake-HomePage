@@ -15,9 +15,9 @@ function App() {
         <Navbar />
         <Routes>
         <Route path="Fake-HomePage/" element={<Home />} />
-        <Route path="Fake-HomePage/services" element={<Services />} />
-        <Route path="Fake-HomePage/products" element={<Products />} />
-        <Route path="Fake-HomePage/sign-up" element={<SignUp />} />
+        <Route path="/services" element={<Services />} />
+        <Route path="/products" element={<Products />} />
+        <Route path="/sign-up" element={<SignUp />} />
         </Routes>
         <Footer />
       </Router>
