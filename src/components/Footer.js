@@ -29,41 +29,41 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div className='footer-link-items'>
             <h2>About Us</h2>
-            <Link to='/'>How it works</Link>
-            <Link to='/'>Testimonials</Link>
-            <Link to='/'>Careers</Link>
-            <Link to='/'>Investors</Link>
-            <Link to='/'>Terms of Service</Link>
+            <Link to='/Fake-HomePage/'>How it works</Link>
+            <Link to='/Fake-HomePage/'>Testimonials</Link>
+            <Link to='/Fake-HomePage/'>Careers</Link>
+            <Link to='/Fake-HomePage/'>Investors</Link>
+            <Link to='/Fake-HomePage/'>Terms of Service</Link>
           </div>
           <div className='footer-link-items'>
             <h2>Contact Us</h2>
-            <Link to='/'>Contact</Link>
-            <Link to='/'>Support</Link>
-            <Link to='/'>Destinations</Link>
-            <Link to='/'>Sponsorships</Link>
+            <Link to='/Fake-HomePage/'>Contact</Link>
+            <Link to='/Fake-HomePage/'>Support</Link>
+            <Link to='/Fake-HomePage/'>Destinations</Link>
+            <Link to='/Fake-HomePage/'>Sponsorships</Link>
           </div>
         </div>
         <div className='footer-link-wrapper'>
           <div className='footer-link-items'>
             <h2>Videos</h2>
-            <Link to='/'>Submit Video</Link>
-            <Link to='/'>Ambassadors</Link>
-            <Link to='/'>Agency</Link>
-            <Link to='/'>Influencer</Link>
+            <Link to='/Fake-HomePage/'>Submit Video</Link>
+            <Link to='/Fake-HomePage/'>Ambassadors</Link>
+            <Link to='/Fake-HomePage/'>Agency</Link>
+            <Link to='/Fake-HomePage/'>Influencer</Link>
           </div>
           <div className='footer-link-items'>
             <h2>Social Media</h2>
-            <Link to='/'>Instagram</Link>
-            <Link to='/'>Facebook</Link>
-            <Link to='/'>Youtube</Link>
-            <Link to='/'>Twitter</Link>
+            <Link to='/Fake-HomePage/'>Instagram</Link>
+            <Link to='/Fake-HomePage/'>Facebook</Link>
+            <Link to='/Fake-HomePage/'>Youtube</Link>
+            <Link to='/Fake-HomePage/'>Twitter</Link>
           </div>
         </div>
       </div>
       <section className='social-media'>
         <div className='social-media-wrap'>
           <div className='footer-logo'>
-            <Link to='/' className='social-logo'>
+            <Link to='/Fake-HomePage/' className='social-logo'>
               TRVL
               <i className='fab fa-typo3' />
             </Link>
@@ -72,7 +72,7 @@ function Footer() {
           <div className='social-icons'>
             <Link
               className='social-icon-link facebook'
-              to='/'
+              to='/Fake-HomePage/'
               target='_blank'
               aria-label='Facebook'
             >
@@ -80,7 +80,7 @@ function Footer() {
             </Link>
             <Link
               className='social-icon-link instagram'
-              to='/'
+              to='/Fake-HomePage/'
               target='_blank'
               aria-label='Instagram'
             >
@@ -88,7 +88,7 @@ function Footer() {
             </Link>
             <Link
               className='social-icon-link youtube'
-              to='/'
+              to='/Fake-HomePage/'
               target='_blank'
               aria-label='Youtube'
             >
@@ -96,7 +96,7 @@ function Footer() {
             </Link>
             <Link
               className='social-icon-link twitter'
-              to='/'
+              to='/Fake-HomePage/'
               target='_blank'
               aria-label='Twitter'
             >
@@ -104,7 +104,7 @@ function Footer() {
             </Link>
             <Link
               className='social-icon-link twitter'
-              to='/'
+              to='/Fake-HomePage/'
               target='_blank'
               aria-label='LinkedIn'
             >

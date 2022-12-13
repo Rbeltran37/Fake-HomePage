@@ -13,13 +13,13 @@ function Cards() {
               src='https://rbeltran37.github.io/Fake-HomePage/images/img-9.jpg'
               text='Explore the hidden waterfall deep inside the Amazon Jungle'
               label='Adventure'
-              path='/services'
+              path='/Fake-HomePage/services'
             />
             <CardItem
               src='https://rbeltran37.github.io/Fake-HomePage/images/img-2.jpg'
               text='Travel through the Islands of Bali in a Private Cruise'
               label='Luxury'
-              path='/services'
+              path='/Fake-HomePage/services'
             />
           </ul>
           <ul className='cards__items'>
@@ -27,19 +27,19 @@ function Cards() {
               src='https://rbeltran37.github.io/Fake-HomePage/images/img-3.jpg'
               text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
               label='Mystery'
-              path='/services'
+              path='/Fake-HomePage/services'
             />
             <CardItem
               src='https://rbeltran37.github.io/Fake-HomePage/images/img-4.jpg'
               text='Experience Football on Top of the Himilayan Mountains'
               label='Adventure'
-              path='/products'
+              path='/Fake-HomePage/products'
             />
             <CardItem
               src='https://rbeltran37.github.io/Fake-HomePage/images/img-8.jpg'
               text='Ride through the Sahara Desert on a guided camel tour'
               label='Adrenaline'
-              path='/sign-up'
+              path='/Fake-HomePage/sign-up'
             />
           </ul>
         </div>
